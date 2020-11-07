@@ -1,6 +1,18 @@
 #!/bin/bash
 
-ip addres
+echo "IP local"
 hostname -I
-curl ifconfig.me
-nmap -sP 10.0.2.0/24
+
+echo "IP publica"
+curl ifconfig.me 
+
+echo ""
+
+nmap --script=vuln,default 10.0.2.15
+
+nmap --script http-headers scanme.nmap.org
+
+nmap -v 189.175.125.237
+
+
+
