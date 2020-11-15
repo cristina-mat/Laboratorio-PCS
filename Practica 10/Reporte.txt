@@ -1,0 +1,743 @@
+Hive (C:\Users\Fam.M\Desktop\NTUSER.DAT) is not dirty.
+
+adobe v.20200522
+(NTUSER.DAT) Gets user's Adobe app cRecentFiles values
+
+adobe v.20200522
+Could not access Software\Adobe\Adobe Acrobat\\AVGeneral\cRecentFiles
+
+Software\Adobe\Acrobat Reader\DC\AVGeneral\cRecentFiles
+Key name,file name,sDate,uFileSize,uPageCount
+c1,/C/Users/Fam.M/Desktop/COMV-1743338/Tarea10-FSO-1743338.pdf ,20201113153805-06'00' ,166984,3
+c2,/C/Users/Fam.M/Desktop/COMV-1743338/Tarea06-FSO-1743338.pdf ,20201113152051-06'00' ,125599,2
+c3,/C/Users/Fam.M/Downloads/PROTOCOLO_NACIONAL_DE_ACTUACION_PRIMER_RESPONDIENTE.pdf ,20201107180658-06'00' ,6623843,56
+c4,/C/Users/Fam.M/Desktop/COMV-1743338/Tarea07-FSO-1743338.pdf ,20201102205035-06'00' ,112501,2
+c5,/C/Users/Fam.M/Desktop/COMV-1743338/Tarea05-FSO-1743338.pdf ,20201102202402-06'00' ,84732,1
+c6,/C/Users/Fam.M/Desktop/COMV-1743338/Tarea04-FSO-1743338.pdf ,20201102200345-06'00' ,134179,4
+c7,/C/Users/Fam.M/Desktop/COMV-1743338/Tarea003-FSO-1743338.pdf ,20201023205347-05'00' ,253935,4
+c8,/C/Users/Fam.M/Desktop/COMV-1743338/Tarea03-FSO-1743338.pdf ,20201021202311-05'00' ,53604,1
+c9,/C/Users/Fam.M/Desktop/COMV-1743338/Tarea01-FSO-1743338.pdf ,20201021190718-05'00' ,87522,1
+c10,/C/Users/Fam.M/Downloads/REGLAMENTO_DE_PERITOS_Y_AUXILIARES_DE_LA_ADMINISTRACION_DE_JUSTICIA_DEL_PODER_JUDICIAL_DEL_ESTADO_.pdf ,20201021125545-05'00' ,148345,19
+c11,/C/Users/Fam.M/Downloads/consultores_tecnicos (2).pdf ,20201021121723-05'00' ,84249,20
+c12,/C/Users/Fam.M/Downloads/consultores_tecnicos (1).pdf ,20201021120854-05'00' ,84249,20
+c13,/C/Users/Fam.M/Downloads/consultores_tecnicos.pdf ,20201021081807-05'00' ,84249,20
+c14,/C/Users/Fam.M/Desktop/COMV-1743338/2doParcial-TA063-1743338.pdf ,20201020173141-05'00' ,415343,4
+c15,/C/Users/Fam.M/Desktop/COMV-1743338/Tarea02-FSO-1743338.pdf ,20201019210141-05'00' ,14064,2
+c16,/C/Users/Fam.M/Desktop/COMV-1743338/L2-TA063-1743338.pdf ,20201019174529-05'00' ,456794,4
+c17,/C/Users/Fam.M/Downloads/inglés.pdf ,20201016234156-05'00' ,1101655,3
+c18,/C/Users/Fam.M/Desktop/COMV-1743338/T4-TA063-1743338.pdf ,20201015163528-05'00' ,70643,1
+c19,/C/Users/Fam.M/Downloads/Los 8 Pasos para el Ana´lisis de las Poli´ticas Pu´blicas.pdf ,20201015104446-05'00' ,3741125,77
+c20,/C/Users/Fam.M/Downloads/Resumen 5 Criminalística.pdf ,20201013224414-05'00' ,1829006,7
+c21,/C/Users/Fam.M/Downloads/Etimologia y metodologia de la criminalistica (1).pdf ,20201013203935-05'00' ,189827,12
+c22,/C/Users/Fam.M/Downloads/Etimologia y metodologia de la criminalistica.pdf ,20201013190801-05'00' ,189827,12
+c23,/C/Users/Fam.M/Desktop/COMV-1743338/T3-TA063-1743338.pdf ,20201012193611-05'00' ,291202,2
+c24,/C/Users/Fam.M/Downloads/Dialnet-AnalisisDeLasTeoriasDeLaNeurosisEnAdlerYJungALaLuz-4905174.pdf ,20201012185201-05'00' ,79024,8
+c25,/C/Users/Fam.M/Desktop/COMV-1743338/Cuestionario de repaso - 1743338.pdf ,20201012070416-05'00' ,153949,3
+c29,/C/Users/Fam.M/Downloads/criminalística 3.pdf ,20200930212515-05'00' ,825591,3
+c30,/C/Users/Fam.M/Downloads/CV Cristina Mata.pdf ,20200930171940-05'00' ,47934,2
+c31,/C/Users/Fam.M/Downloads/Camina con nosotros.pdf ,20200929184746-05'00' ,4788073,2
+c32,/C/Users/Fam.M/Downloads/Posiciones cadave´ricas.pdf ,20200929170832-05'00' ,2779436,13
+c33,/C/Users/Fam.M/Downloads/Dialnet-ElProcesoConPenalEnSusRelacionesConElProcesoCivil-5084641.pdf ,20200928220206-05'00' ,525934,10
+c34,/C/Users/Fam.M/Pictures/SUNSHINE/GP03_Lectura.pdf ,20200928215559-05'00' ,210882,9
+c35,/C/Users/Fam.M/Pictures/SUNSHINE/García García Sandra El Procedimiento Penal.pdf ,20200928215300-05'00' ,390147,21
+c36,/C/Users/Fam.M/Pictures/SUNSHINE/Derecho Procesal Penal I.pdf ,20200928212638-05'00' ,2213150,590
+c37,/C/Users/Fam.M/Downloads/Derecho-Procesal-Penal-Carlos-Barragan-Salvatierra.pdf ,20200928171216-05'00' ,3365659,878
+c38,/C/Users/Fam.M/Desktop/COMV-1743338/L1-TA063-1743338.pdf ,20200927181223-05'00' ,316051,3
+c39,/C/Users/Fam.M/Downloads/CamScanner 09-26-2020 11.39.39.pdf ,20200926114825-05'00' ,1044972,3
+c40,/C/Users/Fam.M/Desktop/COMV-1743338/T2-TA063-1743338.pdf ,20200925204910-05'00' ,120839,1
+c41,/C/Users/Fam.M/Downloads/Criminalística.pdf ,20200924224652-05'00' ,2092541,5
+c42,/C/Users/Fam.M/Desktop/COMV-1743338/Formato Baja Parcial Semestre Agosto 2020.pdf ,20200922173109-05'00' ,41192,1
+c43,/C/Users/Fam.M/Downloads/Formato Baja Parcial Semestre Agosto 2020.pdf ,20200922171016-05'00' ,95143,1
+c44,/C/Users/Fam.M/OneDrive/T1.V2-63-1743338.pdf ,20200921203201-05'00' ,299980,2
+c45,/C/Users/Fam.M/OneDrive/CI-Cristina Mata-1743338.pdf ,20200921182937-05'00' ,949301,8
+c46,/C/Users/Fam.M/OneDrive/Calculo Integral Parcial 1.pdf ,20200921160457-05'00' ,252130,2
+c47,/C/Users/Fam.M/Desktop/COMV-1743338/FUNDAMENTOS DE SISTEMAS OPERATIVOS.pdf ,20200917185153-05'00' ,16705,3
+c48,/C/Users/Fam.M/Downloads/CamScanner 09-15-2020 12.10.05.pdf ,20200915121504-05'00' ,4086873,9
+c49,/C/Users/Fam.M/Downloads/Historia de los sistemas de identificación (1).pdf ,20200915103510-05'00' ,4193857,15
+c50,/C/Users/Fam.M/Downloads/Matemáticas Discretas - 6ta ed, Johnsonbaugh.pdf ,20200914151424-05'00' ,9589542,697
+c51,/C/Users/Fam.M/Pictures/Camera Roll/ebook-iso-31000-gestion-riesgos-organizaciones.pdf ,20200830111033-05'00' ,2668230,24
+c52,/C/Users/Fam.M/Pictures/9.pdf ,20200830111001-05'00' ,143305,15
+c53,/C/Users/Fam.M/Pictures/1743338_Tarea2.pdf ,20200830110936-05'00' ,82528,7
+c54,/C/Users/Fam.M/Pictures/SUNSHINE/FrontR_Images/LOTERIA BAUBLE SUNSHINE.pdf ,20200816102417-05'00' ,194393,1
+c55,/C/Users/Fam.M/Pictures/SUNSHINE/Prueba_Images/Archivo DV.pdf ,20200812004326-05'00' ,9620987,1
+c56,/C/Users/Fam.M/Pictures/SUNSHINE/Plantilla2.pdf ,20200810193446-05'00' ,27689686,1
+c57,/C/Users/Fam.M/Pictures/SUNSHINE/Prueba_Images/Hologram.pdf ,20200804180715-05'00' ,6036212,1
+c58,/C/Users/Fam.M/Pictures/SUNSHINE/Plantilla.pdf ,20200723222806-05'00' ,6418495,1
+c59,/C/Users/Fam.M/Documents/Karla Mata/Homicidios. DP.pdf ,20200624075427-05'00' ,504779,46
+c60,/C/Users/Fam.M/Downloads/Derecho Penal - Griselda Amuchategui Requena.pdf · versio´n 1.pdf ,20200624022311-05'00' ,3445506,562
+c61,/C/Users/Fam.M/Downloads/Homicidios. DP (2).pdf ,20200623151645-05'00' ,4193498,64
+c62,/C/Users/Fam.M/Documents/Karla Mata/DSM-5. Manual Diagnóstico y Estadístico de los Trastornos Mentales.pdf · versión 1.pdf ,20200614225701-05'00' ,12352597,1000
+c63,/C/Users/Fam.M/Documents/Laboratorio 4 GeoAnalitica.pdf ,20200611215157-05'00' ,218655,3
+c64,/C/Users/Fam.M/Documents/Laboratorio 3 GeoAnalitica.pdf ,20200611214717-05'00' ,288317,3
+c65,/C/Users/Fam.M/Documents/Examen Parcial 4 GeoAnalitica .pdf ,20200611185627-05'00' ,156569,2
+c66,/C/Users/Fam.M/Documents/Examen Parcial 4.pdf ,20200610202828-05'00' ,235022,2
+c67,/C/Users/Fam.M/Documents/PIA ALGEBRA.pdf ,20200609220425-05'00' ,354416,5
+c68,/C/Users/Fam.M/Desktop/Laboratorio11.pdf ,20200605215225-05'00' ,552192,4
+c75,/C/Users/Fam.M/Downloads/Evidencia de Aprendizaje.pdf ,20200326112357-06'00' ,633285,6
+c76,/C/Users/Fam.M/Downloads/Tema-3-Libro-2.pdf ,20200326112132-06'00' ,430608,10
+c77,/C/Users/Fam.M/Downloads/Capitulo XIII DERECHO -convertido.pdf ,20200326111852-06'00' ,485848,14
+c78,/C/Users/Fam.M/Downloads/_Sin ti´tulo.pdf ,20200326111831-06'00' ,479973,10
+c79,/C/Users/Fam.M/Downloads/TEMA 7 EQUIPO 1-convertido.pdf ,20200326111822-06'00' ,848323,13
+c80,/C/Users/Fam.M/Downloads/Dialnet-HaciaUnaNuevaInterpretacionDeLaEximenteDeCasoFortu-2781983.pdf ,20200326111527-06'00' ,1937438,30
+c81,/C/Users/Fam.M/Downloads/25483-22913-1-PB.pdf ,20200326111517-06'00' ,816691,8
+c82,/C/Users/Fam.M/Downloads/Dialnet-AntijuricidadYCausasDeJustificacion-6263236.pdf ,20200326111505-06'00' ,2160885,6
+c83,/C/Users/Fam.M/Downloads/Homicidios. DP.pdf ,20200326111430-06'00' ,504779,46
+c89,/C/Users/Fam.M/Pictures/Camera Roll/Mar.pdf ,20200223130038-06'00' ,2044523,3
+c90,/C/Users/Fam.M/Desktop/PHTLS 8 Edicion.pdf ,20200220155658-06'00' ,947533228,742
+c91,/D/LEYES/summary_es.pdf ,20200217215455-06'00' ,1171150,62
+c92,/D/LEYES/wo83048.pdf ,20200217215443-06'00' ,1652011,260
+c93,/D/LEYES/AC_0001_0004_0166692-0000001.pdf ,20200217215421-06'00' ,686789,72
+c94,/D/LEYES/DERECHOS ECONOMICOS, SOCIALES Y CULTURALES.pdf ,20200217215407-06'00' ,1958488,516
+c95,/D/LEYES/Principios basicos para el tratamiento de reclusos.pdf ,20200217215327-06'00' ,12145,1
+c96,/D/Documentos Para Estudiar/Libros Paramedicos/ACLS 2015 LIBRO COMPLETO.pdf ,20200217215205-06'00' ,20584968,213
+c97,/D/elaboracion-proyecto.pdf ,20200215001751-06'00' ,69227,10
+c98,/D/PC Garcia (cursos)/Revisio´n Primaria Soporte Vital De Traum_20200117142820.pdf ,20200215001640-06'00' ,11253633,7
+c99,/C/Users/Fam.M/Documents/LNSIJPA.pdf ,20200214131803-06'00' ,708154,82
+c100,/C/Users/Fam.M/Downloads/DSM-5. Manual Diagnóstico y Estadístico de los Trastornos Mentales.pdf · versión 1.pdf ,20200213134729-06'00' ,12352597,1000
+
+----------------------------------------
+allowedenum v.20200511
+(NTUSER.DAT, Software) Extracts AllowedEnumeration values to determine hidden special folders
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\AllowedEnumeration not found.
+Microsoft\Windows\CurrentVersion\Explorer\AllowedEnumeration not found.
+----------------------------------------
+appcompatflags v.20200525
+(NTUSER.DAT, Software) Extracts AppCompatFlags for Windows.
+
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Layers
+LastWrite Time 2020-09-30 13:46:27Z
+
+C:\Program Files (x86)\IBM\SPSS\Statistics\25\spssactivator.exe -> RUNASADMIN
+C:\Program Files (x86)\IBM\SPSS\Statistics\25\law.exe -> RUNASADMIN
+C:\Program Files (x86)\IBM\SPSS\Statistics\25\lsclean.exe -> RUNASADMIN
+
+Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store
+  2018-09-15 07:28:42Z - C:\Users\Fam.M\AppData\Local\Microsoft\OneDrive\18.143.0717.0002\FileSyncConfig.exe
+  2018-09-15 07:28:42Z - C:\Users\Fam.M\AppData\Local\Microsoft\OneDrive\19.012.0121.0011\FileSyncConfig.exe
+  2019-12-07 09:08:44Z - C:\Program Files\WinRAR\WinRAR.exe
+  2018-09-15 07:28:42Z - C:\Users\Fam.M\Downloads\Sublime Text Build 3207 x64 Setup.exe
+  2018-09-15 07:28:42Z - C:\Program Files\Sublime Text 3\sublime_text.exe
+  2018-09-15 07:28:42Z - C:\Program Files (x86)\Microsoft Office\root\Office16\OUTLOOK.EXE
+  2018-09-15 07:28:42Z - C:\Users\Fam.M\AppData\Local\Microsoft\OneDrive\19.232.1124.0008\FileSyncConfig.exe
+  2018-09-15 07:28:42Z - C:\Users\Fam.M\Downloads\rufus-3.8.exe
+  2018-09-15 07:28:42Z - C:\Users\Fam.M\AppData\Local\Microsoft\OneDrive\19.232.1124.0010\FileSyncConfig.exe
+  2018-09-15 07:28:42Z - C:\Program Files (x86)\Google\Chrome\Application\80.0.3987.149\Installer\setup.exe
+  2018-09-15 07:28:42Z - C:\Users\Fam.M\AppData\Local\Packages\Microsoft.MicrosoftEdge_8wekyb3d8bbwe\TempState\Downloads\ChromeSetup (1).exe
+  2018-09-15 07:28:42Z - C:\Users\Fam.M\AppData\Local\Microsoft\OneDrive\19.232.1124.0012\FileSyncConfig.exe
+  2018-09-15 07:28:42Z - C:\Users\Fam.M\AppData\Local\Programs\IGdm\IGdm.exe
+  2018-09-15 07:28:42Z - C:\Users\Fam.M\AppData\Local\Microsoft\OneDrive\20.052.0311.0011\FileSyncConfig.exe
+  2018-09-15 07:28:42Z - C:\Users\Fam.M\AppData\Roaming\Zoom\bin\Zoom.exe
+  2018-09-15 07:28:42Z - C:\Users\Fam.M\AppData\Local\Microsoft\OneDrive\Update\OneDriveSetup.exe
+  2018-09-15 07:28:42Z - C:\Users\Fam.M\AppData\Local\Microsoft\OneDrive\20.064.0329.0008\FileSyncConfig.exe
+  2018-09-15 07:28:42Z - C:\Users\Fam.M\Downloads\python-3.8.3.exe
+  2019-12-07 09:08:44Z - C:\Windows\py.exe
+  2018-09-15 07:28:42Z - C:\Users\Fam.M\AppData\Local\Microsoft\OneDrive\20.084.0426.0007\FileSyncConfig.exe
+  2019-03-19 04:44:28Z - C:\Users\Fam.M\AppData\Local\WebEx\atcliun.exe
+  2019-03-19 04:44:28Z - C:\Users\Fam.M\AppData\Local\Programs\IGdm\Uninstall IGdm.exe
+  2019-03-19 04:44:28Z - C:\Program Files\Sublime Text 3\unins000.exe
+  2019-03-19 04:44:28Z - C:\Program Files\OpenShot Video Editor\unins000.exe
+  2019-03-19 04:44:28Z - C:\Users\Fam.M\Desktop\PSCC2K20.V21.0.0.37.WIN.DIGIPLACE\1.INSTALAR\Set-up.exe
+  2019-12-07 09:08:44Z - C:\Program Files\Adobe\Adobe Photoshop 2020\Photoshop.exe
+  2019-03-19 04:44:28Z - C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.61.100.0_x86__kzf8qxf38zg5c\Skype\Skype.exe
+  2019-03-19 04:44:28Z - C:\Users\Fam.M\AppData\Local\WebEx\webexAppLauncher.exe
+  2019-03-19 04:44:28Z - C:\Users\Fam.M\AppData\Local\WebEx\webex.exe
+  2019-03-19 04:44:28Z - C:\Users\Fam.M\AppData\Local\Microsoft\OneDrive\20.114.0607.0002\FileSyncConfig.exe
+  2019-03-19 04:44:28Z - C:\Program Files\Internet Explorer\iexplore.exe
+  2019-03-19 04:44:28Z - C:\Users\Fam.M\AppData\Roaming\Spotify\Spotify.exe
+  2019-03-19 04:44:28Z - C:\Program Files\Corel\CorelDRAW Graphics Suite 2019\Programs64\CorelDRW.exe
+  2019-03-19 04:44:28Z - C:\Program Files\Corel\CorelDRAW Graphics Suite 2019\Setup\SetupARP.exe
+  2019-03-19 04:44:28Z - C:\Users\Fam.M\AppData\Local\Microsoft\OneDrive\20.124.0621.0006\FileSyncConfig.exe
+  2019-12-07 09:08:44Z - C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.63.76.0_x86__kzf8qxf38zg5c\Skype\Skype.exe
+  2019-03-19 04:44:28Z - C:\Users\Fam.M\AppData\Local\Microsoft\OneDrive\20.134.0705.0008\FileSyncConfig.exe
+  2019-03-19 04:44:28Z - C:\Program Files (x86)\TeamViewer\TeamViewer.exe
+  2019-03-19 04:44:28Z - C:\Users\Fam.M\AppData\Local\Programs\Cricut Design Space\Cricut Design Space.exe
+  2019-03-19 04:44:28Z - C:\Users\Fam.M\Downloads\Drivers\dpinst64.exe
+  2019-03-19 04:44:28Z - C:\Users\Fam.M\AppData\Local\Programs\Cricut Design Space\Uninstall Cricut Design Space.exe
+  2019-03-19 04:44:28Z - C:\Users\Fam.M\Downloads\Cricut Design Space Install v5.11.57.exe
+  2019-03-19 04:44:28Z - C:\Users\Fam.M\AppData\Local\Temp\jre-8u261-windows-au.exe
+  2019-03-19 04:44:28Z - C:\Users\Fam.M\Downloads\Cricut Design Space Install v5.11.57 (1).exe
+  2019-12-07 09:08:44Z - C:\Users\Fam.M\AppData\Local\Microsoft\OneDrive\20.143.0716.0003\FileSyncConfig.exe
+  2019-12-07 09:08:44Z - C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeClickToRun.exe
+  2019-12-07 09:08:44Z - C:\Users\Fam.M\AppData\Local\Discord\Update.exe
+  2019-12-07 09:08:44Z - C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.64.80.0_x86__kzf8qxf38zg5c\Skype\Skype.exe
+  2019-12-07 09:08:44Z - C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+  2019-12-07 09:08:44Z - C:\Program Files\Oracle\VirtualBox\VBoxExtPackHelperApp.exe
+  2019-12-07 09:08:44Z - C:\Users\Fam.M\Desktop\SPSS_Statistics_25_win32.exe
+  2019-12-07 09:08:44Z - C:\Program Files (x86)\IBM\SPSS\Statistics\25\stats.exe
+  2019-12-07 09:08:44Z - C:\Program Files (x86)\IBM\SPSS\Statistics\25\JRE\bin\javaw.exe
+  2019-12-07 09:08:44Z - C:\Program Files\Git\git-bash.exe
+  2019-12-07 09:08:44Z - C:\Users\Fam.M\AppData\Local\Microsoft\OneDrive\OneDrive.exe
+  2019-12-07 09:08:44Z - C:\Program Files (x86)\gs\gs8.64\GPLUninst.exe
+  2019-12-07 09:08:44Z - C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.65.76.0_x86__kzf8qxf38zg5c\Skype\Skype.exe
+  2019-12-07 09:08:44Z - C:\Program Files\PuTTY\psftp.exe
+  2019-12-07 09:08:44Z - C:\Program Files\PuTTY\puttygen.exe
+  2019-12-07 09:08:44Z - C:\Program Files\PuTTY\putty.exe
+  2019-12-07 09:08:44Z - C:\Program Files\WindowsApps\Microsoft.549981C3F5F10_2.2009.23741.0_x64__8wekyb3d8bbwe\Win32Bridge.Server.exe
+  2019-12-07 09:08:44Z - C:\Users\Fam.M\AppData\Local\Microsoft\OneDrive\20.169.0823.0006\FileSyncConfig.exe
+  2019-12-07 09:08:44Z - C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.65.78.0_x86__kzf8qxf38zg5c\Skype\Skype.exe
+  2019-12-07 09:08:44Z - C:\Program Files (x86)\Microsoft Office\root\Office16\WINWORD.EXE
+  2019-12-07 09:08:44Z - C:\Program Files\Git\cmd\git-gui.exe
+  2019-12-07 09:08:44Z - C:\Program Files (x86)\Microsoft Office\root\Office16\POWERPNT.EXE
+  2019-12-07 09:08:44Z - C:\Program Files (x86)\Microsoft Office\root\Office16\EXCEL.EXE
+  2019-12-07 09:08:44Z - C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\AdobeARM.exe
+  2019-12-07 09:08:44Z - C:\Program Files\WindowsApps\Microsoft.549981C3F5F10_2.2010.7621.0_x64__8wekyb3d8bbwe\Win32Bridge.Server.exe
+  2019-12-07 09:08:44Z - C:\Users\Fam.M\AppData\Local\Microsoft\OneDrive\StandaloneUpdater\OneDriveSetup.exe
+  2019-12-07 09:08:44Z - C:\Users\Fam.M\AppData\Local\Microsoft\OneDrive\20.169.0823.0008\FileSyncConfig.exe
+  2019-12-07 09:08:44Z - C:\Program Files\WindowsApps\Microsoft.549981C3F5F10_2.2010.22653.0_x64__8wekyb3d8bbwe\Win32Bridge.Server.exe
+  2019-12-07 09:08:44Z - C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe
+  2019-12-07 09:08:44Z - C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+  2019-12-07 09:08:44Z - C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+  2019-12-07 09:08:44Z - C:\Program Files\Git\unins000.exe
+  2019-12-07 09:08:44Z - C:\Program Files (x86)\Common Files\Adobe\Adobe Desktop Common\HDBox\Uninstaller.exe
+  2019-12-07 09:08:44Z - C:\Users\Fam.M\AppData\Local\Microsoft\Teams\Update.exe
+  2019-12-07 09:08:44Z - C:\Users\Fam.M\AppData\Local\Programs\Microsoft VS Code\Code.exe
+  2019-12-07 09:08:44Z - C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.66.74.0_x86__kzf8qxf38zg5c\Skype\Skype.exe
+  2019-12-07 09:08:44Z - C:\Users\Fam.M\Downloads\RegRipper3.0-master\rr.exe
+----------------------------------------
+applets v.20200525
+(NTUSER.DAT) Gets contents of user's Applets key
+
+Applets
+Software\Microsoft\Windows\CurrentVersion\Applets
+LastWrite Time 2020-09-02 05:12:38Z
+
+Software\Microsoft\Windows\CurrentVersion\Applets\Paint\Recent File List
+LastWrite Time 2020-09-02 05:08:27Z
+  File1 -> C:\Users\Fam.M\Downloads\Drivers\CricutDrivers\CricutExploreAir.ico
+  File2 -> C:\Users\Fam.M\Pictures\SUNSHINE\Termos\Personalizados\ArticM.PNG
+  File3 -> C:\Users\Fam.M\Pictures\SUNSHINE\Termos\Personalizados\HarryS.PNG
+  File4 -> C:\Users\Fam.M\Pictures\SUNSHINE\Termos\Personalizados\JBalvin.PNG
+  File5 -> C:\Users\Fam.M\Pictures\SUNSHINE\Captain.jpg
+  File6 -> C:\Users\Fam.M\Pictures\SUNSHINE\M.jpg
+  File7 -> C:\Users\Fam.M\Pictures\SUNSHINE\CaptainA.png
+  File8 -> C:\Users\Fam.M\Desktop\Examen Calculo.jpg
+  File9 -> C:\Users\Fam.M\Downloads\MicrosoftTeams-image (18).png
+----------------------------------------
+apppaths v.20200511
+(NTUSER.DAT,Software) Gets content of App Paths subkeys
+
+2020-11-14 15:16:25Z
+  Skype.exe - C:\Program Files\WindowsApps\Microsoft.SkypeApp_15.66.74.0_x86__kzf8qxf38zg5c\Skype\Skype.exe
+----------------------------------------
+comdlg32 v.20200517
+
+Software\Microsoft\Windows\CurrentVersion\Explorer\ComDlg32
+LastWrite Time 2020-09-06 02:14:44Z
+CIDSizeMRU
+LastWrite: 2020-11-15 03:08:59Z
+Note: All value names are listed in MRUListEx order.
+
+  rr.exe
+  Code.exe
+  Teams.exe
+  {6AA73162-4ED1-4E5A-9E26-55F9C7FA5AF9}
+  chrome.exe
+  {3FA5E9C0-6907-4131-9F22-C04FFB204472}
+  Photoshop.exe
+  NOTEPAD.EXE
+  VirtualBox.exe
+  msedge.exe
+  PowerShell_ISE.exe
+  AcroRd32.exe
+  VirtualBoxVM.exe
+
+LastVisitedPidlMRU
+LastWrite time: 2020-11-15 03:06:14Z
+Note: All value names are listed in MRUListEx order.
+
+  rr.exe - My Computer\C:\Users\Fam.M\.VirtualBox
+  Code.exe - My Computer\{d3162b92-9365-467a-956b-92703aca08af}\PIA
+  Teams.exe - My Computer\{d3162b92-9365-467a-956b-92703aca08af}\PIA
+  {6AA73162-4ED1-4E5A-9E26-55F9C7FA5AF9} - My Computer\C:\Users\Fam.M\Desktop\COMV-1743338
+  chrome.exe - My Computer\{088e3905-0323-4b02-9826-5d99428e115f}
+  {7D3748FF-A0CB-488E-810F-9AD4EFCB2C9A} - My Computer\C:\Users\Fam.M\Documents
+  {3FA5E9C0-6907-4131-9F22-C04FFB204472} - My Computer\C:\Users\Fam.M\Downloads
+  Photoshop.exe - My Computer\{24ad3ad4-a569-4530-98e1-ab02f9417aa8}\SUNSHINE\Prueba_Images
+  notepad.exe - My Computer\CLSID_Desktop\COMV-1743338
+  VirtualBox.exe - My Computer\{088e3905-0323-4b02-9826-5d99428e115f}
+  msedge.exe - My Computer\{088e3905-0323-4b02-9826-5d99428e115f}
+  PowerShell_ISE.exe - My Computer\C:\Users\Fam.M\Desktop\COMV-1743338
+  SnippingTool.exe - My Computer\CLSID_Desktop\COMV-1743338
+  AcroRd32.exe - My Computer\C:\Users\Fam.M\Desktop\COMV-1743338
+
+OpenSavePidlMRU
+LastWrite time: 2020-10-29 21:32:39Z
+OpenSavePidlMRU\*
+LastWrite Time: Sun Nov 15 03:06:14 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\Users\Fam.M\.VirtualBox\Practica3.ps1
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\PIA\HTTPUZZLE.py
+  My Computer\CLSID_Desktop\COMV-1743338\Tarea10-FSO-1743338.pdf
+  My Computer\C:\Users\Fam.M\Desktop\COMV-1743338\Tarea10-FSO-1743338.pdf
+  My Computer\CLSID_Desktop\COMV-1743338\Tarea06-FSO-1743338.pdf
+  My Computer\C:\Users\Fam.M\Desktop\COMV-1743338\Tarea06-FSO-1743338.pdf
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\Resumen 9.pdf
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\Actividad 1.pdf
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Universidad Autónoma de Nuevo León.docx
+  My Computer\C:\Users\Fam.M\Documents\Unknown Type (0x36)
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Protocolos.docx
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\PROTOCOLO_NACIONAL_DE_ACTUACION_PRIMER_RESPONDIENTE.pdf
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\resumen 5 siden.pdf
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\Kaiser social por día general.pptx
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\Actividad 3 mapeo (1).pptx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Kaiser social por día general.pptx
+  My Computer\C:\Users\Fam.M\Documents\Unknown Type (0x36)
+  My Computer\CLSID_Desktop\COMV-1743338\Tarea07-FSO-1743338.pdf
+  My Computer\C:\Users\Fam.M\Desktop\COMV-1743338\Tarea07-FSO-1743338.pdf
+  My Computer\CLSID_Desktop\COMV-1743338\Tarea05-FSO-1743338.pdf
+
+OpenSavePidlMRU\docx
+LastWrite Time: Wed Nov 11 06:44:36 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Universidad Autónoma de Nuevo León.docx
+  My Computer\C:\Users\Fam.M\Documents\Unknown Type (0x36)
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Protocolos.docx
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\CV-3.docx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Karla MV Curriculum .docx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\EQUIPO 6.docx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\activity 7.docx
+  My Computer\CLSID_Desktop\COMV-1743338\Tarea01-FSO-1743338.docx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Activity 1.docx
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\ABRAHAM MASLOW.docx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Derecho Procesal Penal.docx
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\Verb to be.docx
+
+OpenSavePidlMRU\eps
+LastWrite Time: Sun Sep  6 02:21:24 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\generatedtext-_27_.eps
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\generatedtext-_25_.eps
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\generatedtext-_26_.eps
+
+OpenSavePidlMRU\iso
+LastWrite Time: Tue Oct 20 13:59:41 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\CentOS-8.2.2004-x86_64-minimal.iso
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\CentOS-8.2.2004-x86_64-boot.iso
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\kali-linux-2020.3-installer-amd64.iso
+
+OpenSavePidlMRU\jpg
+LastWrite Time: Thu Oct 29 21:26:04 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\f1cce69c-e995-4aa9-9e70-02c22ce352f1.jpg
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\ingles.jpg
+  My Computer\{24ad3ad4-a569-4530-98e1-ab02f9417aa8}\SUNSHINE\Campanita.jpg
+  My Computer\{24ad3ad4-a569-4530-98e1-ab02f9417aa8}\SUNSHINE\2.jpg
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\Activity 2.jpg
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\calavera.jpg
+
+OpenSavePidlMRU\pdf
+LastWrite Time: Fri Nov 13 21:39:22 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\CLSID_Desktop\COMV-1743338\Tarea10-FSO-1743338.pdf
+  My Computer\C:\Users\Fam.M\Desktop\COMV-1743338\Tarea10-FSO-1743338.pdf
+  My Computer\CLSID_Desktop\COMV-1743338\Tarea06-FSO-1743338.pdf
+  My Computer\C:\Users\Fam.M\Desktop\COMV-1743338\Tarea06-FSO-1743338.pdf
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\Resumen 9.pdf
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\Actividad 1.pdf
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\PROTOCOLO_NACIONAL_DE_ACTUACION_PRIMER_RESPONDIENTE.pdf
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\resumen 5 siden.pdf
+  My Computer\CLSID_Desktop\COMV-1743338\Tarea07-FSO-1743338.pdf
+  My Computer\C:\Users\Fam.M\Desktop\COMV-1743338\Tarea07-FSO-1743338.pdf
+  My Computer\CLSID_Desktop\COMV-1743338\Tarea05-FSO-1743338.pdf
+  My Computer\C:\Users\Fam.M\Desktop\COMV-1743338\Tarea05-FSO-1743338.pdf
+  My Computer\CLSID_Desktop\COMV-1743338\Tarea04-FSO-1743338.pdf
+  My Computer\C:\Users\Fam.M\Desktop\COMV-1743338\Tarea04-FSO-1743338.pdf
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\Resumen 4.pdf
+  My Computer\CLSID_Desktop\COMV-1743338\Tarea003-FSO-1743338.pdf
+  My Computer\C:\Users\Fam.M\Desktop\COMV-1743338\Tarea003-FSO-1743338.pdf
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\crimi 6.pdf
+  My Computer\CLSID_Desktop\COMV-1743338\Tarea03-FSO-1743338.pdf
+  My Computer\CLSID_Desktop\COMV-1743338\Tarea01-FSO-1743338.pdf
+
+OpenSavePidlMRU\png
+LastWrite Time: Thu Oct 15 21:32:46 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\MicrosoftTeams-image (7).png
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\MicrosoftTeams-image (4).png
+  My Computer\{24ad3ad4-a569-4530-98e1-ab02f9417aa8}\SUNSHINE\FrontR_Images\Tigre.png
+  My Computer\{24ad3ad4-a569-4530-98e1-ab02f9417aa8}\SUNSHINE\Hilda.png
+  My Computer\{24ad3ad4-a569-4530-98e1-ab02f9417aa8}\SUNSHINE\Campanita.png
+  My Computer\CLSID_Desktop\COMV-1743338\Teorema Sumatoria CI.PNG
+  My Computer\C:\Users\Fam.M\Downloads\MicrosoftTeams-image (11).png
+  My Computer\C:\Users\Fam.M\Downloads\MicrosoftTeams-image (12).png
+  My Computer\{24ad3ad4-a569-4530-98e1-ab02f9417aa8}\SUNSHINE\Prueba_Images\A.png
+  My Computer\{24ad3ad4-a569-4530-98e1-ab02f9417aa8}\SUNSHINE\calavera.png
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\diamond.png
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\generatedtext (27).png
+
+OpenSavePidlMRU\pptx
+LastWrite Time: Sat Nov  7 04:09:48 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\Kaiser social por día general.pptx
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\Actividad 3 mapeo (1).pptx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Kaiser social por día general.pptx
+  My Computer\C:\Users\Fam.M\Documents\Unknown Type (0x36)
+  My Computer\C:\Users\Fam.M\Documents\Unknown Type (0x36)
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\etapas xd.pptx
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\Cronotanatodiagnóstico.pptx
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\Posiciones de cadáveres-criminalistica.pptx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\Consultor técnico en el Nuevo sistema Penal acusatorio.pptx
+  My Computer\C:\Users\Fam.M\Documents\Unknown Type (0x36)
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\7.pptx
+  My Computer\C:\Users\Fam.M\Documents\7.pptx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\IV.pptx
+  My Computer\C:\Users\Fam.M\Documents\IV.pptx
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\Actividad 3 Mapeo.pptx
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\KAISER SOCIAL POR DIA.pptx
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\El Bertillonaje ABD.pptx
+  My Computer\{088e3905-0323-4b02-9826-5d99428e115f}\criminalistica.pptx
+
+OpenSavePidlMRU\ps1
+LastWrite Time: Sun Nov 15 03:06:14 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\C:\Users\Fam.M\.VirtualBox\Practica3.ps1
+  My Computer\C:\Users\Fam.M\Desktop\COMV-1743338\Prueba.ps1
+  My Computer\CLSID_Desktop\Practica3.ps1
+  My Computer\CLSID_Desktop\COMV-1743338\Prueba.ps1
+  My Computer\C:\Users\Fam.M\Practica3.ps1
+
+OpenSavePidlMRU\psd
+LastWrite Time: Thu Oct 29 19:08:17 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{24ad3ad4-a569-4530-98e1-ab02f9417aa8}\SUNSHINE\Prueba_Images\Campanita.psd
+  My Computer\{24ad3ad4-a569-4530-98e1-ab02f9417aa8}\SUNSHINE\Prueba_Images\Kanelo.psd
+  My Computer\{24ad3ad4-a569-4530-98e1-ab02f9417aa8}\SUNSHINE\Prueba_Images\Doc1.psd
+  My Computer\{24ad3ad4-a569-4530-98e1-ab02f9417aa8}\SUNSHINE\Prueba_Images\Archivo DV Plata 2.psd
+
+OpenSavePidlMRU\py
+LastWrite Time: Sat Nov 14 00:50:26 2020
+Note: All value names are listed in MRUListEx order.
+
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\PIA\HTTPUZZLE.py
+  My Computer\CLSID_Desktop\PowerShell\Practica 6.py
+  My Computer\{d3162b92-9365-467a-956b-92703aca08af}\PIA\__PIA__.py
+  My Computer\CLSID_Desktop\PowerShell\Prueb.py
+----------------------------------------
+environment v.20200512
+(System, NTUSER.DAT) Get environment vars from NTUSER.DAT & System hives
+
+Environment
+LastWrite Time: 2020-09-02 05:11:23Z
+
+TEMP                      %USERPROFILE%\AppData\Local\Temp                  
+TMP                       %USERPROFILE%\AppData\Local\Temp                  
+OneDrive                  C:\Users\Fam.M\OneDrive                           
+Path                      C:\Users\Fam.M\AppData\Local\Programs\Python\Python38-32\Scripts\;C:\Users\Fam.M\AppData\Local\Programs\Python\Python38-32\;C:\Program Files\Java\jdk-12.0.1\bin;C:\Users\Fam.M\AppData\Local\Programs\Microsoft VS Code\bin;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;
+OneDriveConsumer          C:\Users\Fam.M\OneDrive                           
+----------------------------------------
+knowndev v.20200515
+(NTUSER.DAT) Gets user's KnownDevices key contents
+
+KnownDevices
+Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\KnownDevices
+LastWrite Time 2020-11-08 02:35:24Z
+
+WpdDeviceHandler_{1641DE12-6D97-5DDC-A9D7-25EA04C59815}  2020-11-08 02:35:24Z
+Label: HUAWEI Y9 2019
+
+WpdDeviceHandler_{2E01AA04-0319-522F-92FE-71A9EEDD340E}  2020-09-02 05:12:38Z
+Label: moto e(6) plus
+
+WpdDeviceHandler_{5E5D4F0A-871E-5326-A9B9-3AC068126CED}  2020-09-02 05:12:38Z
+Label: lornamvs
+
+WpdDeviceHandler_{AD454672-F399-5FE6-8EF3-A0AE6E986A75}  2020-09-02 05:12:38Z
+Label: Moto G (5) Plus
+
+----------------------------------------
+msoffice v.20200518
+
+Software\Microsoft\Office\16.0\Common\Internet
+LastWrite time: 2020-09-02 05:12:21Z
+UseRWHlinkNavigation value = http://redcc.nl.gob.mx/DirectorioOSC/Default.aspx
+
+Word - TrustRecords
+2019-03-08 01:36:55Z: %USERPROFILE%/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/SUE__O-AMERICANO%20(1).docx
+2019-03-08 03:36:26Z: %USERPROFILE%/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/I.FORENSE%20-%20Equipo%233.docx
+2019-03-27 15:01:21Z: %USERPROFILE%/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/AF1_MataVillegas%20(1).odt
+2019-04-11 02:43:45Z: %USERPROFILE%/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/COMV-COCO107-Paronimas%20(1).doc
+2019-04-12 04:17:51Z: %USERPROFILE%/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/PROYECTO-DE-ALFABETIZACION%20(1).doc
+2019-05-02 04:33:46Z: %USERPROFILE%/AppData/Local/Packages/Microsoft.MicrosoftEdge_8wekyb3d8bbwe/TempState/Downloads/TestCilindro.docx
+2019-05-04 15:17:04Z: %USERPROFILE%/Downloads/TestCilindro.docx
+2019-05-04 15:18:24Z: %USERPROFILE%/Downloads/TestCilindro%20(1).docx
+2019-05-04 15:18:24Z: %USERPROFILE%/Downloads/1743338_Tarea2.docx
+2019-05-07 03:13:57Z: %USERPROFILE%/Downloads/PROYECTO%20DE%20ALFABETIZACION%20(1).doc
+2019-05-08 04:31:07Z: %USERPROFILE%/Desktop/COMV-1743338/PROYECTO_FINAL_DE_APRENDIZAJE/PROYECTO-ALFABETIZACION.doc
+2019-05-08 04:31:06Z: %USERPROFILE%/Desktop/COMV-1743338/PROYECTO_FINAL_DE_APRENDIZAJE/Reporte9.doc
+2019-05-08 09:18:08Z: %USERPROFILE%/Desktop/COMV-1743338/PROYECTO_FINAL_DE_APRENDIZAJE/Reporte10.doc
+2019-05-08 09:48:28Z: %USERPROFILE%/Downloads/TF00002054.docx
+2019-05-09 04:00:25Z: %USERPROFILE%/Downloads/UNIVERSIDADnAUTnnNOMAnDEnNUEVOnLEnnN___465ccf9ac373c84___.docx
+2019-05-11 19:24:17Z: %USERPROFILE%/Downloads/Indicios.docx
+2019-05-12 01:49:12Z: %USERPROFILE%/Downloads/E4_GRUPO12_EQUIPO3.docx
+2019-05-16 03:50:54Z: %USERPROFILE%/Downloads/UNIVERSIDADnAUTnnNOMAnDEnNUEVOnLEnnN___465ccf9ac373c84___%20(1).docx
+2019-05-18 19:14:42Z: %USERPROFILE%/Downloads/Tarea1_1743338.doc.pdf
+2019-05-18 20:28:42Z: %USERPROFILE%/Downloads/Plano%20de%20las%20redes.docx
+2019-05-29 02:03:20Z: %USERPROFILE%/Downloads/EVIDENCIA%20DE%20APRENDIZAJE%204.docx
+2019-05-29 02:29:07Z: %USERPROFILE%/Desktop/Equipo%2003.docx
+2019-05-29 03:05:22Z: %USERPROFILE%/Downloads/4.1-1%20(1).docx
+2019-05-29 03:54:08Z: %USERPROFILE%/Downloads/4.1-1%20(2).docx
+2019-07-10 06:13:17Z: %USERPROFILE%/Downloads/Avance%20tarea%20seminario.rtf
+2019-07-15 03:12:51Z: %USERPROFILE%/Downloads/Requisito%203.docx
+2019-07-29 01:14:45Z: %USERPROFILE%/Downloads/Doc6.docx
+2019-10-09 04:36:17Z: %USERPROFILE%/Downloads/n223.doc
+2019-10-09 20:48:29Z: %USERPROFILE%/Downloads/GUIA-PARCIAL-TEORIAS%20(1).docx
+2019-10-09 04:53:59Z: %USERPROFILE%/Downloads/n7.doc
+2019-10-09 04:53:34Z: %USERPROFILE%/Downloads/n8.doc
+2019-10-09 05:00:00Z: %USERPROFILE%/Downloads/n274.doc
+2019-10-16 17:56:05Z: %USERPROFILE%/Downloads/Descripcion.Practica.docx
+2019-10-21 23:42:31Z: %USERPROFILE%/Downloads/Informe.docx
+2019-10-21 23:41:46Z: %USERPROFILE%/Downloads/UANL.docx
+2019-10-30 20:06:45Z: %USERPROFILE%/Downloads/73-curriculum-vitae-empresarial.docx
+2019-10-30 20:26:47Z: %USERPROFILE%/Downloads/85-curriculum-vitae-espanol.docx
+2019-11-21 15:31:12Z: %USERPROFILE%/Downloads/METODOLOGIA.docx
+2020-09-30 20:28:32Z: %USERPROFILE%/Downloads/CV%20Cristina%20Mata.docx
+2020-02-15 23:17:46Z: %USERPROFILE%/Downloads/101036.docx
+2020-03-12 00:28:29Z: %USERPROFILE%/Downloads/08%20Admon%20de%20proyectos.doc
+2020-03-14 03:14:29Z: %USERPROFILE%/Downloads/2_220180_3741.doc
+2020-05-14 21:19:44Z: %USERPROFILE%/Downloads/432570_05-05-2020_07-22-56_4.docx
+1970-01-01 00:00:00Z: https://uanledu-my.sharepoint.com/personal/deyanira_matavllgs_uanl_edu_mx/Documents/Tarea%202%20Mata%20Villegas.docx
+2020-05-25 14:37:55Z: %USERPROFILE%/Downloads/Examen%20final%20DH.docx
+2020-06-30 00:42:57Z: %USERPROFILE%/Downloads/Trabajo%20final,atencion%20integral%20de%20victimas.docx
+2020-07-09 19:03:27Z: %USERPROFILE%/Downloads/CV-2.docx
+2020-08-31 17:28:46Z: %USERPROFILE%/Downloads/CV.docx
+2020-07-23 04:21:17Z: %USERPROFILE%/Desktop/CV.docx
+2020-09-22 22:14:38Z: %USERPROFILE%/Downloads/Formato%20Baja%20Parcial%20Semestre%20Agosto%202020.docx
+2020-09-27 01:21:34Z: %USERPROFILE%/Downloads/Doc1%20jueves.docx
+2020-10-10 15:29:08Z: %USERPROFILE%/Downloads/PC%20-%20Cuestionario%20de%20repaso%20-%20Parcial%201.docx
+2020-10-12 22:49:39Z: %USERPROFILE%/Downloads/Modelo%20topográfico%20psicologia.docx
+2020-10-12 22:50:54Z: %USERPROFILE%/Downloads/ABRAHAM%20MASLOW.docx
+2020-10-12 22:50:49Z: %USERPROFILE%/Downloads/elloelyoysuperyo.docx
+2020-10-13 06:30:31Z: %USERPROFILE%/Downloads/Sigmund%20Freud.docx
+2020-10-29 20:49:10Z: %USERPROFILE%/Downloads/CV-3.docx
+2020-11-08 03:23:31Z: %USERPROFILE%/Downloads/PROTOCOLO_NACIONAL_DE_ACTUACION_PRIMER_RESPONDIENTE.docx
+
+PowerPoint - File MRU
+PowerPoint\User MRU\ADAL_6AAAB661CDCAB8AF2129F4131268C408A7F53C458EF546936463ED8AE382A016 - File MRU
+PowerPoint - Place MRU
+PowerPoint\User MRU\ADAL_6AAAB661CDCAB8AF2129F4131268C408A7F53C458EF546936463ED8AE382A016 - Place MRU
+Excel - TrustRecords
+2019-04-20 19:39:01Z: %USERPROFILE%/Downloads/Actividad%203.1.xlsx
+2019-05-29 02:29:07Z: %USERPROFILE%/Desktop/Equipo%2003.xlsx
+2019-05-29 04:13:47Z: %USERPROFILE%/Downloads/Equipo3-006.xlsx
+2019-05-29 02:45:41Z: %USERPROFILE%/Downloads/Equipo%2003.xlsx
+2019-09-12 18:18:54Z: %USERPROFILE%/Downloads/lista_de_asociaciones.xlsx
+2019-10-16 23:36:32Z: %USERPROFILE%/Downloads/DATOS%20FCPYRI%20JUN19%20(1).xlsx
+2020-03-03 18:40:23Z: %USERPROFILE%/Downloads/FORMATO-VACANTES-ASIS.xls
+2020-03-20 21:45:15Z: %USERPROFILE%/Downloads/INVENTARIO%20MARZO%202020.xlsx
+2020-03-25 19:58:16Z: %USERPROFILE%/Downloads/INVENTARIO%20MARZO%202020%20(1).xlsx
+2020-04-15 21:54:31Z: %USERPROFILE%/Downloads/CONTABILIDAD%20.xlsx
+2020-04-15 23:08:18Z: %USERPROFILE%/Downloads/ESTRADA%20BOOTS.xlsx
+2020-04-15 22:16:37Z: %USERPROFILE%/Desktop/LORNA%20FR/CONTABILIDAD%20.xlsx
+2020-06-10 22:10:30Z: %USERPROFILE%/Downloads/PUROPATRON.xlsx
+2020-09-09 23:29:01Z: %USERPROFILE%/Downloads/PLATILLA.xlsx
+2020-09-13 18:44:11Z: %USERPROFILE%/Downloads/PLATILLA%20(1).xlsx
+2020-09-24 02:51:25Z: %USERPROFILE%/Downloads/PLATILLA%20(2)%20(1).xlsx
+2020-09-24 02:49:11Z: %USERPROFILE%/Downloads/EJERCICIO%202%20BASE%20DE%20DATOS%20(2).xlsx
+2020-09-25 08:08:27Z: %USERPROFILE%/Downloads/Base%20de%20Datos%202017.xlsx
+2020-09-25 08:08:23Z: %USERPROFILE%/Downloads/EJERCICIO%202%20BASE%20DE%20DATOS%20(2)%202018.xlsx
+2020-09-14 01:42:20Z: %USERPROFILE%/Downloads/PLATILLA%20(2).xlsx
+
+Excel - File MRU
+Excel\User MRU\ADAL_6AAAB661CDCAB8AF2129F4131268C408A7F53C458EF546936463ED8AE382A016 - File MRU
+Excel - Place MRU
+Excel\User MRU\ADAL_6AAAB661CDCAB8AF2129F4131268C408A7F53C458EF546936463ED8AE382A016 - Place MRU
+
+Word - Reading Locations
+2020-11-08 17:29:09Z: C:\Users\Fam.M\Downloads\PROTOCOLO_NACIONAL_DE_ACTUACION_PRIMER_RESPONDIENTE.docx (2020-11-08T11:29)
+2020-11-09 17:51:21Z: C:\Users\Fam.M\Documents\Protocolos.docx (2020-11-09T11:51)
+2020-09-27 02:08:46Z: C:\Users\Fam.M\Downloads\Verb to be.docx (2020-09-26T21:08)
+2020-09-29 04:33:20Z: C:\Users\Fam.M\Documents\Derecho Procesal Penal.docx (2020-09-28T23:33)
+2020-09-29 17:33:22Z: C:\Users\Fam.M\AppData\Local\Temp\Rar$DIa14492.19188\Karla MV Curriculum .docx (2020-09-29T12:33)
+2020-09-29 17:53:17Z: C:\Users\Fam.M\AppData\Local\Temp\Rar$DIa13460.49318\Karla MV Curriculum .docx (2020-09-29T12:53)
+2020-09-29 17:55:21Z: C:\Users\Fam.M\Documents\Karla MV Curriculum .docx (2020-09-29T12:55)
+2020-10-09 21:03:45Z: C:\Users\Fam.M\Downloads\CV Cristina Mata.docx (2020-10-09T16:03)
+2020-10-13 19:57:39Z: C:\Users\Fam.M\Downloads\Sigmund Freud.docx (2020-10-13T14:57)
+2020-10-17 16:56:10Z: C:\Users\Fam.M\Documents\Activity 1.docx (2020-10-17T11:56)
+2020-11-13 21:38:10Z: C:\Users\Fam.M\Desktop\COMV-1743338\Tarea01-FSO-1743338.docx (2020-11-13T15:38)
+2020-10-24 16:56:47Z: C:\Users\Fam.M\Documents\activity 7.docx (2020-10-24T11:56)
+2020-10-11 18:32:55Z: C:\Users\Fam.M\Downloads\PC - Cuestionario de repaso - Parcial 1.docx (2020-10-11T13:32)
+2020-10-24 18:42:39Z: C:\Users\Fam.M\Documents\EQUIPO 6.docx (2020-10-24T13:42)
+2020-10-29 21:35:35Z: C:\Users\Fam.M\Downloads\CV-3.docx (2020-10-29T15:35)
+2020-11-11 06:38:14Z: C:\Users\Fam.M\Documents\Universidad Autónoma de Nuevo León.docx (2020-11-11T00:38)
+2020-09-22 22:27:56Z: C:\Users\Fam.M\Downloads\Formato Baja Parcial Semestre Agosto 2020.docx (2020-09-22T17:27)
+2020-10-12 23:25:12Z: C:\Users\Fam.M\Downloads\Modelo topográfico psicologia.docx (2020-10-12T18:25)
+2020-10-13 06:35:41Z: C:\Users\Fam.M\Downloads\ABRAHAM MASLOW.docx (2020-10-13T01:35)
+2020-10-12 23:30:41Z: C:\Users\Fam.M\Downloads\elloelyoysuperyo.docx (2020-10-12T18:30)
+2020-11-12 13:33:52Z: C:\Users\Fam.M\Downloads\Guia de procesal.docx (2020-11-12T07:33)
+2020-09-27 01:36:22Z: C:\Users\Fam.M\Downloads\Doc1 jueves.docx (2020-09-26T20:36)
+----------------------------------------
+putty v.20200515
+(NTUSER.DAT) Extracts the saved SshHostKeys for PuTTY.
+
+PuTTY
+Software\SimonTatham\PuTTY\SshHostKeys
+LastWrite Time 2020-11-03 01:28:17Z
+
+ssh-ed25519@17321:0.tcp.ngrok.io -> 0x72c27b19ca1181a004d0250dced5290327635bf6d51a209497c58e72b3ed05ed,0x4abfc94a802e600507a52f740fd8a6bb2aa84ffd3b7b28a19e5bf7fab995a4a8
+ssh-ed25519@18801:0.tpc.ngrok.io -> 0x58310c1ec65cd340b495985b15eeba6010d21de750920090b9e931415a0e8dfc,0x6827a6a91a3cfc1edf6d0d0c727d1578e475851dd50df408129c76c9b7fcb287
+ssh-ed25519@18713:2.tcp.ngrok.io -> 0x58310c1ec65cd340b495985b15eeba6010d21de750920090b9e931415a0e8dfc,0x6827a6a91a3cfc1edf6d0d0c727d1578e475851dd50df408129c76c9b7fcb287
+
+----------------------------------------
+recentdocs v.20200427
+(NTUSER.DAT) Gets contents of user's RecentDocs key
+
+RecentDocs
+**All values printed in MRUList\MRUListEx order.
+Software\Microsoft\Windows\CurrentVersion\Explorer\RecentDocs
+LastWrite Time: 2020-11-15 03:16:17Z
+  42 = Cuentas de usuario
+  46 = ::{60632754-C523-4B62-B45C-4172DA012619}
+  52 = Fam.M
+  27 = .bash_history
+  44 = .VirtualBox
+  130 = Practica3.ps1
+  2 = Descargas
+  34 = video (4).mp4
+  131 = PIA
+  123 = Practica8.py
+  109 = HTTPUZZLE.py
+  56 = ftp.py
+  87 = TXT
+  149 = video (2).mp4
+  100 = ms-gamingoverlay:///
+  23 = kglcheck/
+  8 = COMV-1743338
+  15 = Tarea10-FSO-1743338.pdf
+  14 = Tarea01-FSO-1743338.docx
+  53 = Tarea06-FSO-1743338.pdf
+  66 = Programas
+  0 = ::{60632754-C523-4B62-B45C-4172DA012619}
+  36 = Guia de procesal.docx
+  22 = {FBFC22E9-CEAB-430A-A19F-2A00B6143FC7}
+  55 = Capture001.png
+  129 = {C1DF392D-6EBD-4FF4-BCFD-088324AB5AAE}
+  29 = Resumen 9.pdf
+  144 = Actividad 1.pdf
+  101 = CADAVER EN EL LUGAR DE LOS HECHOS.pptx
+  76 = Levantamiento de cadáver C.C.A..pptx
+  96 = Tipos de muestras, balística, narcótico, toxicologia, cabellos y saliva.pptx
+  35 = Universidad Autónoma de Nuevo León.docx
+  26 = Protocolos.docx
+  45 = PROTOCOLO_NACIONAL_DE_ACTUACION_PRIMER_RESPONDIENTE.docx
+  134 = {9D422292-E225-42E3-BF83-BCF9FE1EC935}
+  80 = PROTOCOLO_NACIONAL_DE_ACTUACION_PRIMER_RESPONDIENTE.pdf
+  48 = video (1).mp4
+  141 = resumen 5 siden.pdf
+  4 = Kaiser social por día general.pptx
+  11 = Actividad 3 mapeo (1).pptx
+  65 = DELITOS.PATRIMONIALESxMES.DEF.spv
+  98 = KSxPARTEDIADEFINITIVO.spv
+  93 = KSPORDIADEFINITIVO.spv
+  69 = descargar.png
+  51 = video.mp4
+  24 = Tarea07-FSO-1743338.pdf
+  127 = Tarea05-FSO-1743338.pdf
+  126 = Tarea04-FSO-1743338.pdf
+  41 = PowerShell
+  86 = Practica 6.py
+  137 = Resumen 4.pdf
+  39 = Retrato hablado.pptx
+  17 = DETERMINACIÓN DE EDAD MEDIANTE  ERUPCIÓN DENTAL (1).pptx
+  10 = Aspectos antropologicos en la identificacion judicial - copia.pptx
+  120 = Características dentales.pptx
+  147 = CV-3.docx
+  148 = WhatsApp Image 2020-10-29 at 15.32.03.jpeg
+  9 = f1cce69c-e995-4aa9-9e70-02c22ce352f1.jpg
+  49 = Prueba_Images
+  6 = Campanita.psd
+  5 = Constitución Política de los Estados Unidos Mexicanos.pptx
+  60 = Karla MV Curriculum .docx
+  75 = etapas xd.pptx
+  16 = elloyosupeeryo.pptx
+  18 = Presentación psicologia.pptx
+  145 = Bibliografia de Sigmund Freud.pptx
+  20 = PLATILLA (2).xlsx
+  70 = ingles.jpg
+  102 = EQUIPO 6.docx
+  133 = Practica 6
+  125 = page1.txt
+  128 = __PIA__.py
+  140 = Prueb.py
+  132 = HTML
+  19 = page0.txt
+  113 = Redes Sociales.txt
+  105 = activity 7.docx
+  21 = Tarea003-FSO-1743338.pdf
+  78 = Practica3
+  138 = network
+  1 = Internet
+  64 = ms-availablenetworks:
+  135 = {6EAB6E9F-9AC4-48E0-B1ED-D32636E79F65}
+  37 = crimi 6.pdf
+  59 = Cronotanatodiagnóstico.pptx
+  71 = Antes del procesamiento de una escena.pptx
+  77 = Posiciones de cadáveres-criminalistica (1).pptx
+  58 = EJERCICIO 2 BASE DE DATOS (2) 2018.xlsx
+  67 = EJERCICIO 2 BASE DE DATOS (2).xlsx
+  108 = odet.txt
+  124 = Posiciones de cadáveres-criminalistica.pptx
+  146 = Tarea03-FSO-1743338.pdf
+  114 = Tarea01-FSO-1743338.pdf
+  61 = IP
+  68 = gggg.txt
+  38 = Diccionario con ordenamiento.txt
+  122 = Consultor técnico en el Nuevo sistema Penal acusatorio.pptx
+  117 = Tarea02-FSO-1743338.pdf
+  28 = CentOS-8.2.2004-x86_64-minimal.iso
+  54 = 2doParcial-TA063-1743338.pdf
+  84 = {E80382E8-8E4D-4751-A2B2-07CB39B95C9E}
+  142 = CentOS-8.2.2004-x86_64-boot.iso
+  13 = L2-TA063-1743338.pdf
+  116 = Ecuaciones exp. y log. 2.mp4
+  3 = Propiedad de Log.mp4
+  63 = Ecuaciones exp. y log..mp4
+  74 = msg.txt
+  94 = mystery_img2.txt
+  82 = Activity 1.docx
+  33 = Etapa2 PPA.pptx
+  110 = inglés.pdf
+  89 = T4-TA063-1743338.pdf
+  50 = MicrosoftTeams-image (7).png
+  119 = video (5).mp4
+  85 = F (D:)
+  118 = Notas.txt
+  30 = Practica1.sh.sh
+  73 = Resumen 5 Criminalística.pdf
+  143 = Practica2.txt
+  12 = Link2-Encoded.txt
+  57 = Link-Encoded.txt
+  112 = Practica
+  104 = Prueba.ps1
+  136 = Sigmund Freud.docx
+  25 = Capturas de pantalla
+  83 = Captura de pantalla (2).png
+  31 = ABRAHAM MASLOW.docx
+  7 = Tarea1.sh
+  90 = video (3).mp4
+  47 = elloelyoysuperyo.docx
+  97 = Modelo topográfico psicologia.docx
+  32 = PC - Cuestionario de repaso - Parcial 1.docx
+  79 = CV Cristina Mata.docx
+  103 = Downloads
+  107 = Captura de pantalla (1).png
+  106 = {19FB1AB1-8378-40CC-B953-428C29D885CF}
+  88 = {9650DABB-7E67-489E-BFC3-D06C721D6752}
+  62 = {654304D1-59D3-4993-BDE7-A1F9762E849A}
+  40 = OneDrive
+  99 = 31.xlsx
+  95 = {00835C67-0C81-40CA-9295-7844B3B877E1}
+  43 = Resultado5.spv
+  91 = Resultado4.spv
+----------------------------------------
